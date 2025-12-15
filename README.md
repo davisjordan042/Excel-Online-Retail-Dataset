@@ -3,9 +3,13 @@ This project utilizes real world transactional ecommerce data. The goal was to c
 
 ## Dataset
 **Dataset**: UCI Online Retail Dataset
+
 **Description**: Transaction-level data from a UK-based online retailer
+
 **Period Covered**: December 2010 – December 2011
+
 **Size**: around 540,000 transactions
+
 **Fields Used**: InvoiceNo, InvoiceDate, CustomerID, StockCode, Description, Quantity, UnitPrice, Country, Unique CustomerID, FirstPurchaseDate, LastPurchaseDate, Recency, CohortMonth, and MonthSinceFirstPurchase.
 
 ## Tools Used In Excel
