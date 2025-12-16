@@ -55,20 +55,42 @@ This project utilizes real world transactional ecommerce data. The goal was to c
 - A small percentage of customers contributed a large share of total revenue.
 - RFM analysis revealed a strong group of high-value repeat customers.
 
+## Screenshots
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3bf1782b-6063-49e2-bf26-eac293e2b3a1" />
+  <br>
+  <em>Revenue Per Month</em>
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/7e006d68-a5d6-49ed-9fb3-8ae3d65248b5" />
+  <br>
+  <em>Top Products (top 10)</em>
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/1a2b8ed4-7df3-496d-949a-e9f270af9528" />
+  <br>
+  <em>Top Customers (top 10)</em>
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/47927f32-d230-450e-b486-097745c98159" />
+  <br>
+  <em>RFM Segmentation</em>
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/64763c4d-09f1-45a9-a10b-8bbb70a5a8b0" />
+  <br>
+  <em>Cohort Analysis</em>
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/d6b3a258-9040-44fc-9b0b-ed4602c536e6" />
+  <br>
+  <em>Forecast Chart</em>
+</p>
+
 ## Conclusion
 This project shows practical Excel skills needed for real world business analysis, such as; data cleaning, customer segmentation, trend analysis, and forecasting. Analysis like this provides actionable insights tat could support marketing, and revenue goal planning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
